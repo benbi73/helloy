@@ -62,7 +62,7 @@
         <footer>
             <div id="picture1"></div>
 
-        </footer>
+      </footer>
     </div>
 </body>
 </html>
