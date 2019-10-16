@@ -1,0 +1,154 @@
+﻿.container {
+    background:url(фон1.jpg) no-repeat;
+    background-size:100%;
+    margin: 0px auto;
+    min-width: 1350px;
+    max-width: 1350px;
+    text-align: left;
+    border: 0px solid #000;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    overflow-x: hidden;
+    text-decoration: none;
+}
+html {
+    background: #d3d3d3 no-repeat;
+
+}
+.prozr {
+    background: rgba(0,0,0,0.5);
+    width: 100%;
+    padding: 0px 0px 0px 0px;
+    height: 60px;
+}
+header {
+    width: 100%;
+    background: url(пробы.jpg) no-repeat;
+    min-height: 100px;
+    height: 306px;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    font-size: 1.6em;
+    font-family: Impact,sans-serif;
+}
+#picture {
+    padding:93px 0px 0px 0px;
+    margin: 0px;
+    background: url() no-repeat;
+}
+
+    header p {
+        float: left;
+        margin: 20px 0px 0px 10px;
+        font-size: 1.8em;
+    }
+
+header.poz{
+        opacity:1;
+    }
+.register {
+    margin: 7px 10px 7px 0px;
+    font-size: 1em;
+    color: #a3a3a3;
+    position: inherit;
+    float: right;
+    top: 90px;
+    left: 90%;
+}
+
+    .register:hover {
+        background-color: #ffff;
+        text-decoration: none;
+    }
+dannie {
+    float: left;
+    margin-left: 7.2%;
+    margin-top: 13.8%;
+    font-weight:300;
+}
+
+.chto {
+    width: 260px;
+    border: 0px inset;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    margin-left: 0px;
+    padding: 10px 0px 10px 30px; 
+    color: #e0e0e0;
+    font-family: initial;
+    font-size: 1.1em;
+    float: left;
+    font-family: 'Comic Sans MS',sans-serif;
+}
+
+    .chto:hover {
+        background-color: #1d1c1c;
+        text-decoration: none;
+        opacity: 0.7;
+    }
+reklama {
+    background: url(https://c.wallhere.com/photos/ec/af/blue_texture_abstract-1442239.jpg!d) no-repeat #280737;
+    background-size: 100% auto; 
+    width: 100%;
+    height: 305px;
+    border: 10px medium #280737;
+    float: left; 
+    padding: 10px;
+    color: #3854fc;
+    font-family: Webdings,sans-serif;
+    font-size: 1.1em;
+}
+zachem {
+
+    border: 3px double blue;
+    margin: 20px 50px 20px 10%;
+    background: #088bd7;
+    background-size: 100% auto; 
+    height: 300px;
+    border: 10px medium #280737;
+    float: left; 
+    padding: 10px;
+    color: #ffff;
+    font-family: Webdings,sans-serif;
+    font-size: 1.4em;
+    text-indent: 1.1em;
+}
+#shrift{
+    font-size:30px;
+    font-family:fantasy;
+}
+
+#tabl {
+    line-height: 1.8;
+    margin: 10px;
+    font-weight:700;
+    list-style-position: inside;
+    list-style-type:disc;
+    font-family: 'Global Serif';
+    font-size: 1.8em;
+    padding: 5px;
+    text-indent: 1.1em;
+}
+footer {
+    background: linear-gradient(black,#3854fc,#28d9d9,#3854fc,black);
+    background-size: 100%; 
+    width: 100%;
+    height: 200px;
+    border: 10px medium #280737;
+    float: left; 
+    padding: 0px;
+    color: aqua;
+    font-family: Webdings,sans-serif;
+    font-size: 1.1em;
+}
+#picture1 {
+    padding: 200px 0px 0px 0px;
+    margin: 0px;
+    background: url() no-repeat;
+}
+
+ 
